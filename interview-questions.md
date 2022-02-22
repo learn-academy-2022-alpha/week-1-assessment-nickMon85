@@ -15,41 +15,41 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 1. What is git? What is the difference between git and Github?
 
-  Your answer:
+  Your answer:Git is the system used to move the data, whether getting, receiving. Github is where the data is stored. Its like a bank, github is like the safe that holds everyones money. However, the money must be accessed using transactions with a bankteller.
 
-  Researched answer:
+  Researched answer:Git is a manange system that allows you to track your source code. GitHub is a cloud- based service that allows you to store and manage Git repositories.
 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer:
+  Your answer: I guess for loops.
 
-  Researched answer:
+  Researched answer: The logical (||) operator, is generally used with boolean values.
 
 
 
 3. What is an index? What is the difference between index and value?
 
-  Your answer:
+  Your answer: An index is the storage system that holds stings. Im not totally sure how to describe a value.
 
-  Researched answer:
+  Researched answer: Index describes the storage location. While value, describes the content of an element.
 
 
 
 4. What is iteration?
 
-  Your answer:
+  Your answer: When goes through a repeated process until its main goal is accomplished.
 
-  Researched answer:
+  Researched answer: Iteration is the repetition of a process utilized to generate a sequence of outcomes. Each repition with a process is an iteration, while every iteration creates a piece of the expected outcome.
 
 
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-  Your answer:
+  Your answer: Pair programming is a technique where two programmers work together. One driver, who writes code, and a navigator, that reviews the code written.
 
-  Researched answer:
+  Researched answer: Pair programming is a software development technique where programmers work together. One driver, who writes code, and a navigator, that reviews the code written.
 
 
 
@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions:This is a function that ether takes a function as an argument or returns a function
 
-2. Jest:
+2. Jest: Its a testing framework used to ensure correctness of a codebase
 
-3. Objects:
+3. Objects: An object is an unordered collection of key-value pairs. Each key-value is called a property
 
-4. Method:
+4. Method: Are functions that are performed on objects. Methods are stored as object properties
 
-5. Classes:
+5. Classes:Classes are a framework for creating objects.
